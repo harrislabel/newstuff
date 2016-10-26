@@ -1,0 +1,11 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "bootsrap app for react",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harris Label",
+  "license": "MIT"
+}
